@@ -20,16 +20,10 @@ Driven by a motivation to learn something new every day!
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/florian-trautweiler" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-white&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://medium.com/@florian-trautweiler" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://www.youtube.com/@flipflodev" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/YouTube-ff0033?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://flipflogames.itch.io/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Itch.io-fa5c5c?style=for-the-badge&logo=Itch.io&logoColor=white" target="_blank" />
-  </a>
+    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/florian-trautweiler)
+[![LinkedIn](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@florian-trautweiler)
+[![LinkedIn](https://img.shields.io/badge/YouTube-ff0033?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@flipflodev)
+[![LinkedIn](https://img.shields.io/badge/Itch.io-fa5c5c?style=for-the-badge&logo=Itch.io&logoColor=white)](https://flipflogames.itch.io)
+
 </div>
